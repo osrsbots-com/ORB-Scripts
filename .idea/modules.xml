@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExampleUtil/ExampleUtil.iml" filepath="$PROJECT_DIR$/ExampleUtil/ExampleUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORB-Scripts.iml" filepath="$PROJECT_DIR$/ORB-Scripts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LumbyChopper/SimpleChopper.iml" filepath="$PROJECT_DIR$/LumbyChopper/SimpleChopper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleChopper/SimpleChopper.iml" filepath="$PROJECT_DIR$/SimpleChopper/SimpleChopper.iml" />
     </modules>
   </component>
 </project>
