@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ORB-Scripts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ORB_Scripts_jar</output-path>
+    <root id="archive" name="ORB-Scripts.jar">
+      <element id="module-output" name="ORB-Scripts" />
+      <element id="module-output" name="SimpleChopper" />
+      <element id="module-output" name="ExampleUtil" />
+    </root>
+  </artifact>
+</component>
