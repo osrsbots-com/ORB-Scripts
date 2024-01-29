@@ -2,8 +2,8 @@ package script;
 
 import com.osrsbots.orb.api.interact.interactables.types.RSPlayer;
 import com.osrsbots.orb.api.util.ScriptUtil;
-import com.osrsbots.orb.scripts._framework.Script;
-import com.osrsbots.orb.scripts._framework.ScriptMeta;
+import com.osrsbots.orb.scripts.framework.Script;
+import com.osrsbots.orb.scripts.framework.ScriptMeta;
 import util.GameListener;
 
 import java.util.concurrent.atomic.AtomicBoolean;
