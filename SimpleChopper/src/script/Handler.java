@@ -25,7 +25,7 @@ public class Handler {
                 break;
             case CHOP:
                 // Check if inventory is full
-                if (Items.isFull()) {
+                if (Items.isInventoryFull()) {
                     log.info("@CHOP~ Inventory is full!");
                     script.state = SimpleChopper.State.DROP;
                     return;
